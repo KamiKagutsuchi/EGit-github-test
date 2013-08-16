@@ -23,7 +23,7 @@ public final class Constants {
 	public static final String FINAL_BGM="/sound/bgm/Big Blue.wav";
 	public static final String STORE_PIECE="/sound/sfx/Knock.wav";
 	public static final String REMOVE_ROW="/sound/sfx/Explosion.wav";
-	public static final String GAME_TITLE="Tetris";
+	public static final String GAME_TITLE="Tetris!!";
 	public static final String NEW_GAME_ACTION="NEW GAME";
 	public static final String LOAD_GAME_ACTION="LOAD GAME";
 	public static final String SAVE_GAME_ACTION="SAVE GAME";
